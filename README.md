@@ -98,3 +98,11 @@ The dataset should include financial attributes such as:
 -   Web-based prediction interface
 -   Advanced ensemble methods
 
+------------------------------------------------------------------------
+
+## 📄 Project Report
+
+For a detailed write-up of the methodology, experiments, and results, see the project report:
+
+-   [Credit Score Classification Report](report.pdf)
+
