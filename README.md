@@ -40,41 +40,6 @@ financial data.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-```text
-Credit-Score-Classification/
-├── Credit_Score_Classification.ipynb  # Main notebook
-├── dataset/                           # (Optional) Dataset folder
-├── models/                            # (Optional) Saved models
-└── README.md                          # Project documentation
-```
-
-------------------------------------------------------------------------
-
-## 📥 Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/hnvkhanh/Credit-Score-Classification.git
-cd Credit-Score-Classification
-```
-
-### 2️⃣ Install required packages
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
-
-### 3️⃣ Run the notebook
-
-```bash
-jupyter notebook
-```
-
-------------------------------------------------------------------------
-
 ## 📊 Machine Learning Models
 
 -   Logistic Regression
