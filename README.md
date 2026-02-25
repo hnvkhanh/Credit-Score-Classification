@@ -42,9 +42,13 @@ financial data.
 
 ## 📂 Project Structure
 
-Credit-Score-Classification/ │ ├── Credit_Score_Classification.ipynb \#
-Main notebook ├── dataset/ \# (Optional) Dataset folder ├── models/ \#
-(Optional) Saved models └── README.md \# Project documentation
+```text
+Credit-Score-Classification/
+├── Credit_Score_Classification.ipynb  # Main notebook
+├── dataset/                           # (Optional) Dataset folder
+├── models/                            # (Optional) Saved models
+└── README.md                          # Project documentation
+```
 
 ------------------------------------------------------------------------
 
@@ -52,16 +56,22 @@ Main notebook ├── dataset/ \# (Optional) Dataset folder ├── models/ 
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/hnvkhanh/Credit-Score-Classification.git\
+```bash
+git clone https://github.com/hnvkhanh/Credit-Score-Classification.git
 cd Credit-Score-Classification
+```
 
 ### 2️⃣ Install required packages
 
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
 
 ### 3️⃣ Run the notebook
 
+```bash
 jupyter notebook
+```
 
 ------------------------------------------------------------------------
 
@@ -106,11 +116,11 @@ The dataset should include financial attributes such as:
 
 ## 🔍 Workflow
 
-1.  Load dataset\
-2.  Data cleaning & preprocessing\
-3.  Feature selection / encoding\
-4.  Model training\
-5.  Model evaluation\
+1.  Load dataset
+2.  Data cleaning & preprocessing
+3.  Feature selection / encoding
+4.  Model training
+5.  Model evaluation
 6.  Performance comparison
 
 ------------------------------------------------------------------------
@@ -127,7 +137,7 @@ The dataset should include financial attributes such as:
 
 ## 🤝 Contributing
 
-Contributions are welcome!\
+Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
 ------------------------------------------------------------------------
